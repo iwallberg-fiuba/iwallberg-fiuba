@@ -14,6 +14,12 @@ Todavía me falta subir muchas de las materias que cursé previamente, pero plan
 
 #### TB022 - Introducción al Desarrollo de Software - 1C26 - Cátedra Camejo
 
+![GitHub repo views](https://raw.githubusercontent.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE/traffic/total_views.svg)
 
+![GitHub repo views per week](https://raw.githubusercontent.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE/traffic/total_views_per_week.svg)
+
+![GitHub repo clones](https://raw.githubusercontent.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE/traffic/total_clones.svg)
+
+![GitHub repo clones per week](https://raw.githubusercontent.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE/traffic/total_clones_per_week.svg)
 
 [Ver repositorio](https://github.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE)
