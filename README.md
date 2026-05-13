@@ -2,7 +2,7 @@
 
 Intento crear repositorios para todas las materias que curso, con el objetivo de hacer que la información sea más accesible para todos.
 
-En ellos suelo incluir soluciones a guías prácticas, resúmenes teóricos, herramientas útiles para practicar y las fuentes utilizadas.
+Suelo incluir soluciones a guías prácticas, resúmenes teóricos, herramientas útiles para practicar y las fuentes utilizadas.
 
 Me interesa que tanto la parte práctica como la teórica estén disponibles de una forma clara y pedagógica, para que sean más fáciles de estudiar.
 
