@@ -1,16 +1,19 @@
-## Hi there 👋
+Intento crear repositorios para todas las materias que curso, con el objetivo de hacer que la información sea más accesible para todos.
 
-<!--
-**iwallberg-fiuba/iwallberg-fiuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+También incluyo herramientas útiles para practicar, como complemento de las guías prácticas.
 
-Here are some ideas to get you started:
+Suelo subir soluciones a las guías, resúmenes teóricos, herramientas útiles y las fuentes de donde obtuve la información.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me importa mucho que tanto la parte práctica como la teórica estén disponibles de una forma pedagógica y simple, para que sean más fáciles de estudiar.
+
+Todavía me falta subir muchas de las materias que cursé previamente, pero planeo hacerlo eventualmente.
+
+---
+
+## Repositorios
+
+### TB022 - Introducción al Desarrollo de Software - 1C26 - Cátedra Camejo
+
+![Repo views](https://visitor-badge.laobi.icu/badge?page_id=iwallberg-fiuba.TB022---INTRO-DESARROLLO-SOFTWARE)
+
+[Ver repositorio](https://github.com/iwallberg-fiuba/TB022---INTRO-DESARROLLO-SOFTWARE)
