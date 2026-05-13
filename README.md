@@ -1,4 +1,6 @@
-#### Manifiesto
+#### Principios
+
+A favor de ideas aparentemente radicales: conocimiento accesible, disminuir el sesgo, y que la privacidad siga existiendo.
 
 Intento crear repositorios para todas las materias que curso, con el objetivo de hacer que la información sea más accesible para todos.
 
